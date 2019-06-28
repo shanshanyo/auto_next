@@ -3,10 +3,17 @@
 <suite name="C:\Users\shany\eclipse-workspace\auto_next\src\main\java\il\co\next\auto_next\tests" parallel="false">
   <test name="Test">
     <classes>
-      <!-- <class name="mytestng.test"/> -->
-      <!--<class name="../../main/java/il/co/next/auto_next/tests.NavigationToNext"/> -->
-     
       <class name="C:\Users\shany\eclipse-workspace\auto_next\src\main\java\il\co\next\auto_next\tests.NavigationToNext"/>
+      <class name="C:\Users\shany\eclipse-workspace\auto_next\src\main\java\il\co\next\auto_next\tests.LoginToNext"/>
+      <class name="C:\Users\shany\eclipse-workspace\auto_next\src\main\java\il\co\next\auto_next\tests.HelpButtonTest"/>
+      <class name="C:\Users\shany\eclipse-workspace\auto_next\src\main\java\il\co\next\auto_next\tests.AddToBagTest"/>
+      <class name="C:\Users\shany\eclipse-workspace\auto_next\src\main\java\il\co\next\auto_next\tests.AddToFavouritesTest"/>
+      <class name="C:\Users\shany\eclipse-workspace\auto_next\src\main\java\il\co\next\auto_next\tests.AdidasItemsOnlyTest"/>
+      <class name="C:\Users\shany\eclipse-workspace\auto_next\src\main\java\il\co\next\auto_next\tests.FollowOnFacebookTest"/>
+      <class name="C:\Users\shany\eclipse-workspace\auto_next\src\main\java\il\co\next\auto_next\tests.FollowOnInstagramTest"/>
+      <class name="C:\Users\shany\eclipse-workspace\auto_next\src\main\java\il\co\next\auto_next\tests.ClearHistoryTest"/>
+      <class name="C:\Users\shany\eclipse-workspace\auto_next\src\main\java\il\co\next\auto_next\tests.ViewOrEditBagTest"/>
+    
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test> 
+</suite> 
