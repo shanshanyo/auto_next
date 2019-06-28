@@ -30,7 +30,7 @@
 				<version>2.14.1</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>src\test\java\testng.xml</suiteXmlFile>		
+						<suiteXmlFile>auto_next\src\test\java\testng.xml</suiteXmlFile>		
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
